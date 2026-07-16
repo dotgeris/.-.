@@ -104,4 +104,4 @@ function AddPlayerBypass(src, target, args)
     end
 end
 
-print('test')
+print('XeroShield script byl úspěšně načten!')
