@@ -103,3 +103,5 @@ function AddPlayerBypass(src, target, args)
         ExecuteCommand(('add_ace identifier.%s XeroShield.Bypass.%s allow'):format(playerIdentifier, bypassType))
     end
 end
+
+print('test')
